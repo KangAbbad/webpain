@@ -52,3 +52,13 @@ body{
 .active{
     color: #ff6761;
 }
+
+
+.bannercontainer {
+    width: 100% !important;
+    position: relative;
+    padding: 0;
+    max-height: 460px !important;
+    overflow: hidden;
+}
+
