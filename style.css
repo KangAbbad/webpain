@@ -124,6 +124,7 @@ body{
 #service-container .column h3{
     padding: 15px 0;
     color: #505050;
+    font-size: 18px;
 }
 
 #service-container .column p.service-text{
