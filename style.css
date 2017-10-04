@@ -209,10 +209,10 @@ body{
     display: inline-block;
     max-width: 25%;
     margin: auto;
-    padding: 3px 5px;
+    margin: 3px 5px;
     box-sizing: border-box;
 }
 
 #featured-container .box-column .column img{
-    width: 270px;
+    width: 272px;
 }
