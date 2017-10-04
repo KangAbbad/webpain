@@ -216,3 +216,64 @@ body{
 #featured-container .box-column .column img{
     width: 276px;
 }
+
+#touch {
+    background-color: #252525;
+    padding: 50px 0;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.touch-text {
+    color: #bebebe;
+}
+
+.touch-text h1 {
+    font-weight: 900;
+}
+
+p.desc {
+    margin: 20px 0;
+    font-size: 20px;
+    word-spacing: 1px;
+    font-weight: 300;
+}
+
+.contact {
+    color: #bebebe;
+}
+
+.contact span {
+    font-size: 14px;
+    word-spacing: 1px;
+}
+
+.contact span:first-child {
+    margin-right: 30px;
+}
+
+.contact img {
+    width: 10px;
+    margin-right: 5px;
+}
+
+#social ul li {
+    display: inline-block;
+    margin-top: 30px;
+}
+
+#social ul li img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+#copyright {
+    background-color: #202020;
+    padding: 30px 0;
+    text-align: center;
+}
+
+#copyright {
+    color: #bebebe;
+    font-size: 15px;
+}
