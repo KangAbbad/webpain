@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 body{
@@ -181,8 +183,6 @@ body{
     font-weight: 700;
     color: #f1f1f1;
     border-radius: 5px;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
 
 @media 
@@ -253,7 +253,7 @@ p.desc {
 }
 
 .contact img {
-    width: 10px;
+    width: 12px;
     margin-right: 5px;
 }
 
@@ -276,4 +276,5 @@ p.desc {
 #copyright {
     color: #bebebe;
     font-size: 15px;
+    font-weight: normal;
 }
