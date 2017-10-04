@@ -229,6 +229,7 @@ body{
 }
 
 .touch-text h1 {
+    color: #e0e0e0;
     font-weight: 900;
 }
 
@@ -253,7 +254,7 @@ p.desc {
 }
 
 .contact img {
-    width: 12px;
+    height: 11px;
     margin-right: 5px;
 }
 
@@ -273,8 +274,8 @@ p.desc {
     text-align: center;
 }
 
-#copyright {
+#copyright p{
     color: #bebebe;
-    font-size: 15px;
-    font-weight: normal;
+    font-weight: 400;
+    font-size: 14px;
 }
