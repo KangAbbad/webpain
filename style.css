@@ -185,6 +185,14 @@ body{
     -moz-osx-font-smoothing: grayscale; */
 }
 
+@media 
+(-webkit-min-device-pixel-ratio: 2), 
+(min-resolution: 192dpi) { 
+    #second-nav ul li a {
+        font-weight: 900;
+    }
+}
+
 #second-nav ul li a:hover {
     background-color: #E43232;
 }
